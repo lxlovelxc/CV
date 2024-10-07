@@ -1,6 +1,6 @@
  Xi Luo
  
- Email: luoxi2000@126.com |
+ Email: luoxi2000@126.com 
  
  GitHub: https://github.com/lxlovelxc
  
@@ -9,15 +9,25 @@
  Education
  ========================================================================================
  Master of Science in Biology | Southern University of Science and Technology | 2022-2025
+ 
  • GPA: 3.65/4.0
+ 
  • Supervisor: Dr. Chen Xi
+ 
  Semester Exchange | Peking University Shenzhen Graduate School | Mar 2024- Jul 2024
+
  • GPA: 4.0/4.0
+ 
  • Course: Omics Data and Practical Applications
+ 
  Bachelor of Science in Biology | Southern University of Science and Technology | 2018-2022
+ 
  • GPA: 3.2/4.0
+ 
  • Supervisor: Dr. Chen Xi
+ 
  Semester Exchange | BISP, University of California, Berkeley | Jan 2020- Jun 2020
+ 
  Courses:- Neurobiology of Disease (Helen Bateup)- Quantitative Methods in Biology (Rasmus Nielsen)
            Biochemistry: Pathways, Mechanism, and Regulation (Michael Marletta)
 
