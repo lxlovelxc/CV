@@ -99,6 +99,7 @@
  research and its practical applications.
  
  References
+ -----------------------------------------------------------------------------------------
  1. Dr. Chen Xi, Professor of Systems Biology, Southern University of Science and Technology (chenx9@sustech.edu.cn)
  2. Dr. Helen Bateup, Professor of Neurobiology, University of California, Berkeley
  3. Dr. Rasmus Nielsen, Professor of Integrative Biology, University of California, Berkeley
