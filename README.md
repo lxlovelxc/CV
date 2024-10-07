@@ -34,38 +34,56 @@
  Research Experience
  ========================================================================================
  Graduate Research | Southern University of Science and Technology | 2022-2025
+ 
  • Collaborated with physician-scientists at HKU Shenzhen Hospital on molecular differences between IVF and cultured embryos from mothers of varying ages
+ 
  • Performed multiomics analysis on human embryos at post-implantation stage, including scRNA-seq and scATAC-seq
+ 
  • Analyzed large-scale single-cell dataset of up to 6200 cells
+ 
  • Results currently under validation by Marta Shahbazi at MRC Laboratory of Molecular Biology, UK
  
  Undergraduate Research | Southern University of Science and Technology | 2021-2022
+ 
  • Developed an interactive tool for single-cell transcriptome analysis using R Shiny
+ 
  • Created a user-friendly web interface for non-bioinformatics users to perform complex analyses
+ 
  • Project details available on GitHub
 
  Work Experience
  ========================================================================================
  App Development Team Leader | Freshman Project | 2019-2020
+ 
  • Founded and led an interdisciplinary app development team for a biology-focused startup
+ 
  • Hired and managed CS major and Business major students
+ 
  • Gained valuable experience in entrepreneurship and team management
  
  Conferences and Poster Presentations
  ========================================================================================
  • The Second International Conference on Single-cell and Spatial Omics, Mar 2024
+ 
  • The Fourth Annual Meeting of EMBL Alumni in China, Dec 2023
+ 
  • National Key Research on Biotechnology and Information Technology: Cell Atlas Project, Feb 2023
+ 
  • Poster: “Molecular Mechanisms Underlying Age-Related Changes in Early Post-Implantation Human Embryo Development”, 
             The Postgraduate Students’ Forum of Academic Star, SUSTech, Nov 2023
  
  Skills
  ========================================================================================
  • Bioinformatics: STARsolo, Seurat, Linux, Multiomics analysis
+ 
  • Statistical Analysis: R
+
  • Programming: R (Shiny), Python
+ 
  • Data Visualization: Adobe Illustrator
+ 
  • Scientific Writing: LaTeX
+ 
  • Soft Skills: Team leadership, Project management, Cross-disciplinary collaboration
  
  Language Proficiency
