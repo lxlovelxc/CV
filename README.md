@@ -43,7 +43,7 @@
  
  • Results currently under validation by Marta Shahbazi at MRC Laboratory of Molecular Biology, UK
  
- 
+ ----------------------------------------------------------------------------------
  Undergraduate Research | Southern University of Science and Technology | 2021-2022
  
  • Developed an interactive tool for single-cell transcriptome analysis using R Shiny
