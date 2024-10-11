@@ -18,7 +18,7 @@
   </tr>
   <tr>
     <td>2018-2022</td>
-    <td>Bachelor of Science in Biology</td>
+    <td>Bachelor of Science in Bioinformatics</td>
     <td>Southern University of Science and Technology</td>
     <td>GPA: 3.2/4.0</td>
     <td>Supervisor: Dr. Chen Xi</td>
