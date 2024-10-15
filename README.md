@@ -51,11 +51,8 @@
     <td>2022-2025</td>
     <td>Graduate Research</td>
     <td>Southern University of Science and Technology</td>
-    <td>
-      - Collaborated with physician-scientist Dr.Wang Tianren at HKU Shenzhen Hospital on molecular differences between embryos from mothers of different ages.  
-      - Performed multiomics analysis on human embryos at post-implantation stage (scRNA-seq and scATAC-seq)  
-      - Analyzed large-scale single-cell datasets of up to 6200 cells  
-      - Results under validation by Marta Shahbazi at MRC Laboratory of Molecular Biology, UK
+    <td>1/2.Collaborated with physician-scientist Dr.Wang Tianren at HKU Shenzhen Hospital on molecular differences between embryos from mothers of different ages. Performed scRNA-seq analysis on human embryos at post-implantation stage. Analyzed large-scale single-cell datasets of up to 6200 cells. Results under validation by Marta Shahbazi at MRC Laboratory of Molecular Biology, UK
+    2/2.Single cell multiomics analysis including scRNA-seq and scATAC-seq.
     </td>
   </tr>
   <tr>
